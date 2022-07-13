@@ -2,7 +2,7 @@
 
 - I'm interested in algorithmic trading
 
-- I study NinjaTrader 8 & MetaTrader 4, 5
+- I am researching NinjaTrader 8, MetaTrader 4 & 5 and other platforms
 
 - [![fxstill.com](https://fxstill.com/wp-content/uploads/2020/11/rocket32x32.png)](https://fxstill.com) Our site: https://fxstill.com/
 - [![@fxstill](https://fxstill.com/wp-content/uploads/2021/08/Telegram-32x32-1.png)](https://t.me/fxstill) Our Telegram channel: https://t.me/fxstill **`Don't forget to subscribe!`**
